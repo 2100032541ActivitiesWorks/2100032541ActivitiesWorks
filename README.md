@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center"><img src="https://github.com/NKJDesignCreator/NKJDesignCreator/blob/main/fbjf.png" alt="logo" /></h1>
 <h1 align="center">Hi 👋, I'm Nanda Kishore Jana</h1>
 <h3 align="center">A passionate frontend developer and UX Designer</h3>
